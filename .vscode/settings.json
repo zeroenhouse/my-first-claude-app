@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^cd /workspaces/my-first-claude-app && git commit -m \"ディレクトリ構造を3倍優秀・クリエイティブ・クリティカルに改善: サブフォルダ追加とREADME更新\"$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
